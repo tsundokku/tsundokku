@@ -12,7 +12,7 @@ How to reach me, sorted by preference:
 - Telegram: [@nenvibe](https://t.me/nenvibe)
 - Keybase: [@tsundokku](https://keybase.io/tsundokku)
 - Email: tsundokku@pm.me
-- XMPP: tsundokku@creep.im
+- XMPP: tsundokku@creep.im & tsundokku@404.city
 - Guilded: tsundokku
 - Rizon: tsundokku
 - I also use Session, Wickr Me, SimpleX, Delta Chat, and Status, so reach out to me to get my username on those.
