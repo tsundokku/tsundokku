@@ -19,4 +19,5 @@ If privacy/security is a matter of concern:
 - Keybase: [tsundokku](https://keybase.io/tsundokku)
 - Session: 05f67d75ca7e03982f02041cf762bbd735beb8ef96cdfea6da561c3bccfc4ff016
 - Telegram: [nenvibe](https://t.me/nenvibe)
+- Wire: [tsundokku](https://account.wire.com/user-profile/?id=bfb9c6e7-f5a0-40ce-8cce-9301a12ee06a)
 - Email: tsundokku@pm.me
