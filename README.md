@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tsundokku. I'm a college student pursuing a degree in either radiologic technology or health science.
+- 👋 Hi, I’m @tsundokku. I'm a college student pursuing a degree in cybersecurity!
 
 - I haven't coded in many years, but I plan to get back into it in the near future! I have a small amount of experience with HTML, CSS, Batch, and Python. I recently got back into using GNU/Linux, currently using Fedora 37 and I am very satisfied. I, of course, have quite a bit of experience with Windows. I also have dabbled with both Android and iOS. The only major platform I have very limited experience with is macOS.
 
@@ -9,11 +9,11 @@
 - My profile is currently private pending some privacy concerns, but I will go back public once I have confirmed my safety.
 
 Best way to reach me:
-- Discord: tsundokku#3500 
+- Discord: [tsundokku#3500](https://discordapp.com/users/195706164762247169) 
 - I check Discord very frequently, so if you need to reach me immediately, this is the best way.
 
 If privacy/security is a matter of concern:
-- Matrix: @tsundokku:the-apothecary.club
+- Matrix: [@tsundokku:the-apothecary.club](https://matrix.to/#/@tsundokku:the-apothecary.club) & [@tsundokku:matrix.org](https://matrix.to/#/@tsundokku:matrix.org)
 - Revolt: tsundokku
 - XMPP: tsundokku@creep.im & tsundokku@404.city
 - Keybase: [tsundokku](https://keybase.io/tsundokku)
