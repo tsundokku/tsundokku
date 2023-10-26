@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tsundokku. I'm a college student pursuing a degree in cybersecurity!
 
-- I haven't coded in many years, but I plan to get back into it in the near future! I have a small amount of experience with HTML, CSS, Batch, and Python. I recently got back into using GNU/Linux, currently using Fedora 37 and I am very satisfied. I, of course, have quite a bit of experience with Windows. I also have dabbled with both Android and iOS. The only major platform I have very limited experience with is macOS.
+- I haven't coded in many years, but I plan to get back into it in the near future! I have a small amount of experience with HTML, CSS, Batch, and Python. I recently got back into using GNU/Linux, currently using Fedora 37 and I am very satisfied. I, of course, have quite a bit of experience with Windows. I also have dabbled with both Android and iOS. The only major platforms I have limited knowledge of are BSD, and macOS/Unix.
 
 - I'm interested in learning more about coding, particularly for automations, bots for chat platforms, and mobile app development! I also think game modding is pretty cool and I hope to get into that as well!
 
@@ -9,7 +9,7 @@
 - My profile is currently private pending some privacy concerns, but I will go back public once I have confirmed my safety.
 
 Best way to reach me:
-- Discord: [tsundokku#3500](https://discordapp.com/users/195706164762247169) 
+- Discord: [tsundokku](https://discordapp.com/users/195706164762247169) 
 - I check Discord very frequently, so if you need to reach me immediately, this is the best way.
 
 If privacy/security is a matter of concern:
