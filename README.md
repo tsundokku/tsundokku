@@ -14,7 +14,7 @@ Best way to reach me:
 
 If privacy/security is a matter of concern:
 - Matrix: [@tsundokku:the-apothecary.club](https://matrix.to/#/@tsundokku:the-apothecary.club) & [@tsundokku:matrix.org](https://matrix.to/#/@tsundokku:matrix.org)
-- Revolt: tsundokku
+- Revolt: tsundokku#6545
 - XMPP: tsundokku@creep.im & tsundokku@404.city
 - Keybase: [tsundokku](https://keybase.io/tsundokku)
 - Session: 05f67d75ca7e03982f02041cf762bbd735beb8ef96cdfea6da561c3bccfc4ff016
